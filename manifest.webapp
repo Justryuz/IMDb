@@ -1,0 +1,14 @@
+{
+	"version": "1.0",
+	"name": "IMDb",
+	"description": "IMDb - Internet Movie Database (IMDb)",
+	"launch_path": "/index.html",
+	"icons": {
+		"128": "/img/Imdb-128.png",
+		"60":"/img/Imdb-128.png"
+	},
+	"developer": {
+		"name": "Fahmi Fisal",
+		"url": "http://justryuz.blogspot.com"
+	}
+}
